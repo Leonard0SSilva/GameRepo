@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "com.studio.core-infra": "file:../Submodules/Core-Infra",
+    "com.studio.module-ads": "file:../Submodules/Module-Ads",
+    "com.studio.module-iap": "file:../Submodules/Module-IAP"
+  }
+}

@@ -1,9 +1,0 @@
-[submodule "Submodules/Core-Infra"]
-	path = Submodules/Core-Infra
-	url = https://github.com/Leonard0SSilva/Core-Infra.git
-[submodule "Submodules/Module-Ads"]
-	path = Submodules/Module-Ads
-	url = https://github.com/Leonard0SSilva/Module-Ads.git
-[submodule "Submodules/Module-IAP"]
-	path = Submodules/Module-IAP
-	url = https://github.com/Leonard0SSilva/Module-IAP.git
